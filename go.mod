@@ -3,7 +3,7 @@ module github.com/syngit-org/syngit-provider-flux
 go 1.27.0
 
 require (
-	github.com/fluxcd/helm-controller/api v1.7.1
+	github.com/fluxcd/helm-controller/api v1.7.2
 	github.com/syngit-org/syngit-provider-helm v0.2.4
 	k8s.io/api v0.37.1
 	k8s.io/apiextensions-apiserver v0.37.1
